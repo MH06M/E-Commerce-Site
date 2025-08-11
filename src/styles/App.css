@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #f8fafc, #e0f2fe);
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  color: #1e293b;
+  font: italic;
+}
+
+.app-header {
+  padding: 20px;
+}
+
+.subtitle {
+  text-align: center;
+  color: #475569;
+}
+
+.product-list {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.status {
+  text-align: center;
+  padding: 20px;
+}
+
+.status.error {
+  color: red;
+}
+
+.app-footer {
+  text-align: center;
+  padding: 10px;
+  background: #f1f5f9;
+  color: #64748b;
+}
