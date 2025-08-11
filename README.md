@@ -41,8 +41,8 @@ product-listing-professional-colored/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/product-listing-professional-colored.git
-cd product-listing-professional-colored
+git clone https://github.com/MH06M/E-Commerce-Site.git
+cd E-Commerce-Site
 ```
 
 ### 2️⃣ Install dependencies
